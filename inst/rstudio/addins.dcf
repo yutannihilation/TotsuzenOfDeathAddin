@@ -1,0 +1,4 @@
+Name: 突然の死
+Description: 突然の死のAAを生成します。
+Binding: insertSuddenDeath
+Interactive: false
